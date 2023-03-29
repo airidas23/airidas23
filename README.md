@@ -13,4 +13,4 @@
 
 ### Google Data Analytics certificate
 
-![Certificate](https://github.com/airidas23/airidas23/blob/main/Coursera%20KSTUEBV4TL2Y.pdf)
+![Informacinio saugumo modelis](https://github.com/airidas23/airidas23/blob/main/Coursera%20KSTUEBV4TL2Y.pdf)
