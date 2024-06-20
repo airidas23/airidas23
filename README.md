@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m Machine Learning engineer 
 - 💬 Ask me about ...
   
 ### Google Data Analytics certificate
