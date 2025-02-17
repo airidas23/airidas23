@@ -1,8 +1,42 @@
-### Hi there 👋
+## About Me
 
+I'm a passionate software developer with a keen interest in open-source projects and collaborative development. I enjoy solving complex problems and constantly learning new technologies.
 
-- 🌱 I’m Machine Learning engineer 
-- 💬 Ask me about ...
+- 🌱 I’m currently learning advanced AI and machine learning techniques.
+- 👯 I’m looking to collaborate on innovative open-source projects.
+- 💬 Ask me about any tech-related queries, I'm happy to help!
+- 📫 How to reach me: [Your Email or Social Media]
+- ⚡ Fun fact: I love hiking and exploring the great outdoors.
+
+## Skills
+
+- **Languages**: Python, JavaScript, Java, C++
+- **Frameworks**: React, Node.js, Django, Flask
+- **Tools and Technologies**: Docker, Kubernetes, AWS, Git
+
+## Projects
+
+Here are some of my notable projects:
+
+1. **Project Name**
+   - Description: A brief description of what the project does.
+   - [GitHub Repository](#)
+
+2. **Project Name**
+   - Description: A brief description of what the project does.
+   - [GitHub Repository](#)
+
+## GitHub Stats
+
+![Airidas' GitHub stats](https://github-readme-stats.vercel.app/api?username=airidas23&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](#)
+- [Twitter](#)
+- [Personal Website](#)
+
+Thank you for visiting my profile!
   
 ### Google Data Analytics certificate
 
