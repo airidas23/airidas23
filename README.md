@@ -10,9 +10,9 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## Skills
 
-- **Languages**: Python, JavaScript, Java, C++
+- **Languages**: Python, Java, C#
 - **Frameworks**: React, Node.js, Django, Flask
-- **Tools and Technologies**: Docker, Kubernetes, AWS, Git
+- **Tools and Technologies**: Docker, AWS, Git
 
 ## Projects
 
