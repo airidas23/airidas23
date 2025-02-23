@@ -29,6 +29,9 @@ Here are some of my notable projects:
 ## GitHub Stats
 
 ![Airidas' GitHub stats](https://github-readme-stats.vercel.app/api?username=airidas23&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airidas23&layout=compact&theme=radical)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=airidas23&theme=radical)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=airidas23&theme=radical)
 
 ## Connect with Me
 
